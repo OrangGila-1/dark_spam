@@ -35,7 +35,7 @@ def baner():
                                 \033[95m﹋﹋﹋﹋﹋
 \033[92;1m
 ──▄▀▀▀▄───────────────
-salah lo kalo di marahi
+ANAK NGENTOT!
 ──█───█───────────────
 ─███████─────────▄▀▀▄─
 ░██─▀─██░░█▀█▀▀▀▀█░░█░
@@ -49,9 +49,9 @@ salah lo kalo di marahi
 \033[97m
 \t------------
 \nCreator:\033[97m DARK_SECURITY
-Team: Nertwork security
-Youtube: MR_DARK
-Github : github.com/DARK-02
+Team:KEIZERZTEAM
+Youtube: Gaada
+Github : github.com/AAN
 ==========================================''')
 
 def kata(s):
@@ -292,7 +292,7 @@ if __name__=="__main__":
           w=hh+c 
           clear()
           kata("\033[92;1m╔═══════════════════════════════╗")
-          kata("║ Wellcome to DARK  Brutal spam ║")
+          kata("║ Wellcome to AAN GANTENG ║")
           kata("╚═══════════════════════════════╝")
           kata('''
           ................(_)
@@ -414,7 +414,7 @@ if __name__=="__main__":
           kata("\033[97m╠╗║╦║╚╣╦║║║║╠╗║╦║║║║║║╔╣║║║║║╦║")
           kata("╚═╩╩╩═╩╩╩╩╩╝╚═╩╩╝╚╝╚═╝╚═╩╩══╩╩╝")
           kata("\033[92;1m sabar sebentar............")
-          kata("saya lagi berusaha........")
+          kata("saya lagi ngentot........")
           kata("╔═╦╗───╔╗──╔═╗───────╔╗")
           kata("║═╣╚╦═╗║╚╦╦╣═╣╔═╗╔═╦╦╝╠═╗")
           kata("╠═║╔╣╬╚╣╔╣║╠═║║╬╚╣║║║╬║╬╚╦╦╗")
